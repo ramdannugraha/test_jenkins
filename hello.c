@@ -1,1 +1,4 @@
-hello world
+main()
+{
+  printf("halo dunia\n");
+}
